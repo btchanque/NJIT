@@ -1,0 +1,260 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 898px;
+	padding-right: 31px;
+	padding-left: 31px;
+	background-color: #000;
+	margin: auto;
+}
+#pBottomSection {
+	color: #000;
+	background-color: #FFF;
+	height: 200px;
+	width: 898px;
+	padding-right: 31px;
+	padding-left: 31px;
+	padding-top: 31px;
+}
+
+#container {
+	position: relative;
+}
+
+td img {
+	display: block;
+}
+#apDiv1 {
+	position:absolute;
+	left:750px;
+	top:100px;
+	width:193px;
+	z-index:1;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding: 1px;
+}
+#otherDevice {
+	font-size: 14px;
+	position: absolute;
+	height:20px;
+	width:213px;
+	top: 381px;
+	left: 368px;
+	padding: 5px;
+	line-height: 20px;
+}
+#singinBox {
+	font-size: 14px;
+	position: absolute;
+	height:56px;
+	width:142px;
+	top: 342px;
+	left: 449px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 1px;
+}
+#singinBox .logform1 {
+	border: 1px solid #FFF;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-bottom: 7px;
+	padding-left: 1px;
+}
+#singinBox .logform2 {
+	padding: 1px;
+	font-size: 14px;
+	border: 1px solid #FFF;
+}
+#registerBox {
+	font-size: 12px;
+	position: absolute;
+	height:233px;
+	width:242px;
+	top: 268px;
+	left: 355px;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+}
+#registerBox p {
+	line-height: 11px;
+	text-decoration: none;
+	margin: 3px;
+}
+
+#registerBox .regform1 {
+	margin-right: 1px;
+	padding-top: 5px;
+	padding-right: 1px;
+	padding-bottom: 5px;
+	padding-left: 1px;
+	border: thin groove #538BB7;
+	overflow: auto;
+	height: 177px;
+	width: 233px;
+}
+#registerBox form .regform1 p {
+	margin: 4px;
+}
+
+#registerBox .regform2 {
+	margin-top: 2px;
+	margin-bottom: 4px;
+	padding-top: 2px;
+	padding-right: 1px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+}
+#registerBox .regform3 {
+	padding-top: 2px;
+	padding-right: 1px;
+	padding-bottom: 9px;
+	padding-left: 35px;
+	margin-bottom: 4px;
+}
+#registerBox .regform4 {
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-bottom: 1px;
+	padding-left: 29px;
+}
+#addAccBox {
+	font-size: 14px;
+	position: absolute;
+	height:127px;
+	width:100px;
+	top: 288px;
+	left: 444px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+#pswBox {
+	font-size: 12px;
+	position: absolute;
+	height:232px;
+	width:242px;
+	top: 268px;
+	left: 355px;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 5px;
+}
+#pswBox p {
+	line-height: 11px;
+	text-decoration: none;
+	margin: 3px;
+}
+
+#pswBox .pswform1 {
+	margin-right: 1px;
+	padding-top: 5px;
+	padding-right: 1px;
+	padding-bottom: 5px;
+	padding-left: 1px;
+	border: thin groove #538BB7;
+	overflow: auto;
+	height: 195px;
+	width: 233px;
+}
+#pswBox form .pswform1 p {
+	margin: 4px;
+}
+
+#addAccBox .addform1 {
+	margin-right: 1px;
+	margin-bottom: 2px;
+	margin-left: 1px;
+	padding-top: 7px;
+	padding-right: 1px;
+	padding-bottom: 8px;
+	padding-left: 3px;
+	line-height: 25px;
+}
+#addAccBox .addform2 {
+	margin-top: 2px;
+	margin-bottom: 4px;
+	padding-top: 2px;
+	padding-right: 1px;
+	padding-bottom: 5px;
+	padding-left: 4px;
+}
+#addAccBox .addform3 {
+	margin-right: 1px;
+	margin-bottom: 2px;
+	margin-left: 1px;
+	padding-top: 5px;
+	padding-right: 1px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	font-size: 12px;
+}
+#addAccBox .addform4 {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	padding-top: 2px;
+	padding-right: 1px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+	font-size: 12px;
+}
+
+#form {
+	position:absolute;
+	left:492px;
+	top:356px;
+	width:145px;
+	z-index:1;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	padding: 1px;
+	border-bottom-width: 30px;
+	display: none;
+}
+
+#detailsfaq {
+	position: absolute;
+	clear: both;
+	left: 359px;
+	top: 289px;
+	width: 240px;
+	height: 217px;
+	font-size: 12px;
+	overflow: scroll;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
+#detailsfaq section {
+	font-size:13px;
+	color:#0000FF;
+	font-weight:bold;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 4px;
+}
+#detailsfaq details{
+	padding-right: 4px;
+	padding-left: 4px;
+	
+}
+#detailsfaq summary{
+	color:#00003C;
+	font-weight:bold;
+	padding-bottom: 3px;
+}
+#detailsfaq h2 {
+	color: #F00;
+	text-align: center;
+}

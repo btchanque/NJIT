@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Set 1" NameU="Set 1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{606DE317-254E-40EC-8DDE-5591E129BDEB}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="IN_F">1.906250000000000</PinX>
+						<PinY Unit="IN_F">30.562500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{8FC62276-D2F0-4B93-BFB8-34755E0715D8}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="IN_F">5.937500000000000</PinX>
+						<PinY Unit="IN_F">30.625000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{BE79CFCB-F219-4319-A167-4034BE683C5D}" Name="Pull arrow 1" NameU="Pull arrow 1" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">3.750000000000000</PinX>
+						<PinY Unit="IN_F">30.625000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="4" UniqueID="{4695FE71-7ECB-44A2-9138-3D05B6306B43}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="IN_F">7.031250000000000</PinX>
+						<PinY Unit="IN_F">28.000000000000004</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{0031F920-3A21-4AEC-B654-833F3AC24DFE}" Name="Pull arrow 1.5" NameU="Pull arrow 1.5" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">6.339285714285714</PinX>
+						<PinY Unit="IN_F">29.311811023622049</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{694F51C5-C032-4EA2-B19C-24B3B54B22C2}" Name="Pull arrow 1.6" NameU="Pull arrow 1.6" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">4.312500000000000</PinX>
+						<PinY Unit="IN_F">29.061811023622049</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="7" UniqueID="{5A3E668F-CF6D-4B48-84D8-FE729C361BBA}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="IN_F">1.968750000000000</PinX>
+						<PinY Unit="IN_F">27.944783464566928</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{402F126D-5465-4747-9034-55E77776C016}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="IN_F">4.812500000000000</PinX>
+						<PinY Unit="IN_F">25.437500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{DC2FB3AB-178E-4F21-8E10-D1EFC947AFC1}" Name="Pull arrow 1.10" NameU="Pull arrow 1.10" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">5.625000000000000</PinX>
+						<PinY Unit="IN_F">26.719094488188979</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="8" UniqueID="{43429CF9-053A-4028-8BFC-EF668DB3B500}" Name="Pull arrow 1.8" NameU="Pull arrow 1.8" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">4.500000000000000</PinX>
+						<PinY Unit="IN_F">28.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="11" UniqueID="{C527235C-ECA4-40F7-A0BB-8DD6EDD02A39}" Name="Pull arrow 1.11" NameU="Pull arrow 1.11" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">4.875000000000000</PinX>
+						<PinY Unit="IN_F">24.166666666666664</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="6" Name="Portfolio 1" NameU="Set 2">
+			<Shapes>
+				<Shape ID="5" UniqueID="{8DBAC434-40E4-4DB3-AAE9-FF6E228479E8}" Name="Pull arrow 1.11" NameU="Pull arrow 1.11" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">3.812500000000000</PinX>
+						<PinY Unit="IN_F">31.554724409448816</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="7" UniqueID="{64D7CF28-8BDE-47D0-915F-20452565378C}" Name="Pull arrow 1.7" NameU="Pull arrow 1.7" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">6.562500000000000</PinX>
+						<PinY Unit="IN_F">31.539173228346456</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="6" UniqueID="{FC548F3A-B621-457E-9CE6-31D00CCB7674}" Name="Sheet.6" NameU="Sheet.6">
+					<XForm>
+						<PinX Unit="IN_F">8.000000000000000</PinX>
+						<PinY Unit="IN_F">28.858845412832405</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{9937059F-0A96-45AF-8714-7E04122EF1DA}" Name="Sheet.8" NameU="Sheet.8">
+					<XForm>
+						<PinX Unit="IN_F">2.793009868421053</PinX>
+						<PinY Unit="IN_F">28.250000000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="9" Name="Portfolio 1.2" NameU="Portfolio 2">
+			<Shapes>
+				<Shape ID="4" UniqueID="{4D533E44-51C4-45DD-BD75-7798EF259EB5}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="IN_F">5.125000000000000</PinX>
+						<PinY Unit="IN_F">28.000000000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="5" Name="Set 2" NameU="Set 3">
+			<Shapes>
+				<Shape ID="2" UniqueID="{202CB8BC-FCD7-4905-AFA2-E721E653048F}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="IN_F">7.562500000000000</PinX>
+						<PinY Unit="IN_F">25.913485156263935</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{33F15615-CE0B-4215-A5F4-8147C0D9C990}" Name="Pull arrow 1.18" NameU="Pull arrow 1.18" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">2.750000000000000</PinX>
+						<PinY Unit="IN_F">26.062500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="5" UniqueID="{7113BDA5-C8ED-43A6-891F-5F91212E934A}" Name="Pull arrow 1.19" NameU="Pull arrow 1.19" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">3.812500000000000</PinX>
+						<PinY Unit="IN_F">25.125000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="7" UniqueID="{DD357817-6729-40F8-A214-F2156838152F}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="IN_F">4.500000000000000</PinX>
+						<PinY Unit="IN_F">29.812500000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="Set 3" NameU="set 4">
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{709EF28D-FF4E-4A5D-B585-7E152389CF95}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="IN_F">4.812500000000000</PinX>
+						<PinY Unit="IN_F">25.919428115875210</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{DE419CB1-EA9F-444B-BEA1-79F3DF2931F5}" Name="Pull arrow 1.21" NameU="Pull arrow 1.21" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">4.500000000000000</PinX>
+						<PinY Unit="IN_F">27.822065248703669</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="5" UniqueID="{17FEF4E2-DE76-47D8-B5E0-612646010441}" Name="Sheet.5" NameU="Sheet.5">
+					<XForm>
+						<PinX Unit="IN_F">7.250000000000000</PinX>
+						<PinY Unit="IN_F">27.125000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{EBBA34C0-B694-48C8-B227-DA9D82D8509C}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="IN_F">4.562500000000000</PinX>
+						<PinY Unit="IN_F">29.699812151910891</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{026A9730-C484-4D3E-8094-77FB17C866DF}" Name="Pull arrow 1.4" NameU="Pull arrow 1.4" Master="2">
+					<XForm>
+						<PinX Unit="IN_F">4.500000000000000</PinX>
+						<PinY Unit="IN_F">31.435002460629921</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="7" Name="On 3 Devices" NameU="3Devices">
+			<Shapes>
+				<Shape ID="1" UniqueID="{347E590D-C3E3-49E0-9239-D046204F2240}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="IN_F">4.999999999999999</PinX>
+						<PinY Unit="IN_F">28.291666666666668</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="8" Name="Inside" NameU="Inside">
+			<Shapes>
+				<Shape ID="1" UniqueID="{5175D062-E024-4767-A290-6E6AA7BCECE5}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>You can import holdings from over 60+ brokerages, including: American Funds, Ameriprise Financial, Ameritrade, BB&amp;T Investment Services, Bear Sterns, Bernstein, Capital One, Charles Schwab, Chase Investment Services, Choice Trade, Citi Wealth Management, Citibank, Citigroup, Cobra Trading, Credit Suisse, D.A. Davidson, Deutsche Bank, ETrade, Edward Jones, Fidelity, Fiduciary Trust, Franklin Templeton, Goldman Sachs, Hewitt Associates, Financial Services, ING, Intuit 401K, Invesco, Ivy Funds, J.P. Morgan, J.P. Morgan Private Banking, Janney Montgomery Scott, Janus, Jefferies and Co., Lightspeed, MB Trading, Mercer 401K, Merrill Edge, Merrill Lynch Direct, Merrill Lynch Online, Metlife, Morgan Keegan &amp; Co., Morgan Stanley ClientServ, Morgan Stanley Smith Barney, Muriel Siebert (myStreetscape), Northern Trust, Oppenheimer &amp; Co., Options House, OptionsXpress, PNC, Pershing, Principal Financial Group, Prudential, RBC Wealth Management, Robert W. Baird &amp; Co., Salmon Smith Barney, Schwab, Scottrade, Sharebuilder (ING), SpeedTrader, T. Rowe Price, TD Ameritrade, TIAA-CREF Brokerage Service, Thinkorswim, TradeMONSTER, UBS, US Bank, USAA, VALIC 401K, Vanguard, Wachovia, Waddell &amp; Reed, Washington Mutual, and Zecco. 
+
+Don't see your brokerage in the list? Let us know, and we'll be sure to add it as soon as possible.
+
+ You can reach us at support@moneyonthego.com for this and any other feedback on the app. Features Automatically import your brokerage holdings to MOG Portfolio and it'll automatically update each night
+
+Get recommendations and other insights from analytics charts, major movers visualizations, and comparisons to the markets Release notes, Recent update include recommendations, pin-to-start for most screens, an additional analytics dashboard, and stability updates.
+
+Supported processors x86, x64, ARM</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.156250000000000</PinX>
+						<PinY Unit="IN_F">27.875000000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
